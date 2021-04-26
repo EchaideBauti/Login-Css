@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image:url(Ilustraciones.jpg);
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+}
+main{
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    left: 50%;
+    background-color: white;
+}
+section{
+    margin: 50px;
+    height: 80%;
+}
+form{
+    margin-top: 125px;
+}
+.titu{
+    color: royalblue;
+    font-size: 28px;
+    position: relative;
+    left: 180px;
+}
+
+.textotitu{
+    font-size:12px;
+    text-align: center;
+    color: gray;
+    width: 400px;
+    position: relative;
+    left: 80px;
+}
+.inputform{
+    width: 300px;
+    height: 30px;
+    border-style:none;
+    border-top: 1px solid gray;
+    border-left: 4px solid royalblue;
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
+    position: relative;
+    left: 125px;
+    
+}
+.check{
+    position: relative;
+    left: 125px;
+}
+.textcheck {
+    position: relative;
+    left: 130px;
+    font-size: 14px;
+}
+.itsnot{
+    position: relative;
+    left: 175px;
+    font-size: 12px;
+    color: royalblue;
+}
+.enviar{
+    width: 300px;
+    height: 35px;
+    border-radius: 20px;
+    border-style: none;
+    background-color: royalblue;
+    color: white;
+    font-size: 16px;
+    position: relative;
+    left: 125px;
+}
+.contenedor{
+    width: 50%;
+    float: left;
+    color: white;
+}
+.tituloprincipal{
+    position: relative;
+    text-align: center;
+    top: 150px;
+    font-size: 60px;
+}
+.tituloarriba {
+    position: relative;
+    text-align: center;
+    top: 150px;
+}
+.lorem {
+    width: 350px;
+    position: relative;
+    text-align: center;
+    left: 175px;
+    top: 150px;
+    font-size: 12px;
+}
+.companyname{
+    padding:40px;
+}
